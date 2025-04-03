@@ -1,0 +1,11 @@
+SQL> sekect * from stu01;
+SP2-0734: "sekect * f..."(으)로 시작되는 알 수 없는 명령 - 나머지 줄은 무시되었습니다.
+SQL> select * from stu01;
+
+       NUM        KOR        ENG       MATH                                     
+---------- ---------- ---------- ----------                                     
+      1111         11         11         11                                     
+      1111         11         11         11                                     
+      1111         11         11         11                                     
+
+SQL> spool off
